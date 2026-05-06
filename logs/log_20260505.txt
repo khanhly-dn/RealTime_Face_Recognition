@@ -1,0 +1,16 @@
+[2026-05-05 12:17:50]  Nguoi la              do_tin_cay=43.0  anh=captures\nguoi_la_20260505_121750.jpg
+[2026-05-05 12:17:55]  Nguoi la              do_tin_cay=56.3  anh=captures\nguoi_la_20260505_121755.jpg
+[2026-05-05 12:18:00]  Nguoi la              do_tin_cay=54.9  anh=captures\nguoi_la_20260505_121800.jpg
+[2026-05-05 12:18:05]  Nguoi la              do_tin_cay=58.9  anh=captures\nguoi_la_20260505_121805.jpg
+[2026-05-05 12:18:12]  Nguoi la              do_tin_cay=59.6  anh=captures\nguoi_la_20260505_121812.jpg
+[2026-05-05 12:18:17]  Nguoi la              do_tin_cay=47.3  anh=captures\nguoi_la_20260505_121817.jpg
+[2026-05-05 12:18:23]  Nguoi la              do_tin_cay=16.5  anh=captures\nguoi_la_20260505_121823.jpg
+[2026-05-05 12:18:28]  Nguoi la              do_tin_cay=48.6  anh=captures\nguoi_la_20260505_121828.jpg
+[2026-05-05 12:18:33]  Nguoi la              do_tin_cay=45.9  anh=captures\nguoi_la_20260505_121833.jpg
+[2026-05-05 12:18:39]  Nguoi la              do_tin_cay=47.4  anh=captures\nguoi_la_20260505_121839.jpg
+[2026-05-05 12:18:44]  Nguoi la              do_tin_cay=48.7  anh=captures\nguoi_la_20260505_121844.jpg
+[2026-05-05 12:18:49]  Nguoi la              do_tin_cay=52.9  anh=captures\nguoi_la_20260505_121849.jpg
+[2026-05-05 12:18:54]  Nguoi la              do_tin_cay=55.2  anh=captures\nguoi_la_20260505_121854.jpg
+[2026-05-05 12:18:59]  Nguoi la              do_tin_cay=34.2  anh=captures\nguoi_la_20260505_121859.jpg
+[2026-05-05 12:19:04]  Nguoi la              do_tin_cay=46.4  anh=captures\nguoi_la_20260505_121904.jpg
+[2026-05-05 12:19:09]  Nguoi la              do_tin_cay=37.3  anh=captures\nguoi_la_20260505_121909.jpg
