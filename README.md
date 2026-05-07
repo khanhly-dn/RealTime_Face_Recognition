@@ -205,7 +205,7 @@ Sau khi chạy đủ 3 bước, hệ thống tự động tạo các thư mục:
 - `trainer/` – Chứa file mô hình LBPH và file nhãn
 - `captures/` – Ảnh lưu tự động (người lạ) và thủ công ([S])
 - `logs/` – File log nhận diện theo từng ngày
-
+🎬 **Video hoạt động:** *  *
 ---
 
 ## 🔬 Thuật toán LBPH
