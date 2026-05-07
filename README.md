@@ -204,7 +204,7 @@ Sau khi chạy đủ 3 bước, hệ thống tự động tạo các thư mục:
 - `dataset/` – Chứa ảnh khuôn mặt của từng người (100 ảnh/người)
 - `trainer/` – Chứa file mô hình LBPH và file nhãn
 - `captures/` – Ảnh lưu tự động (người lạ) và thủ công ([S])
-- `logs/` – File log nhận diện theo từng ngày
+- `logs/` – File log nhận diện theo từng ngày  
 🎬 **Video hoạt động:** *  *
 ---
 
@@ -242,5 +242,5 @@ Khoa Công nghệ Thông tin – Trường Đại học Đại Nam
 ---
 
 <p align="center">
-  Made with ❤️ using Python · OpenCV · LBPH · Haar Cascade
+  Using Python · OpenCV · LBPH · Haar Cascade
 </p>
